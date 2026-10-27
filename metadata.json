@@ -1,0 +1,6 @@
+{
+  "name": "Rwanda GMMS - Government Market & Tender Portal",
+  "description": "Official Government Market & Tender Management System (GMMS) for Rwanda. Manages road construction, school feeding, uniform supply, and market stall tenders with vendor profiling, bilingual Kinyarwanda/English support, and complete PHP/MySQL codebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
